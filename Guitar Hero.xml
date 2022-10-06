@@ -1,0 +1,6 @@
+<Guitar_Hero>
+	<main_sound link="Songs\Intro.mp3" />
+	<playlist link="Songs/songs_list.xml" />
+	<multiplayer link="Songs/Multiplayer.xml" />
+	<background logo="Songs/Background.swf" top="Songs/Background_top.swf" bottom="Songs/Background_bottom.swf" />
+</Guitar_Hero>
